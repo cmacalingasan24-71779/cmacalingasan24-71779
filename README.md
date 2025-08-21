@@ -37,21 +37,38 @@ in creating a website.
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cmacalingasan24-71779&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cmacalingasan24-71779&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cmacalingasan24-71779&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">📊 GitHub Stats:</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cmacalingasan24-71779&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cmacalingasan24-71779&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=cmacalingasan24-71779&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmacalingasan24-71779&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cmacalingasan24-71779&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cmacalingasan24-71779&theme=dark&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
+</p>
+
+<h2 align="center">🔝 Top Contributed Repo</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=cmacalingasan24-71779&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cmacalingasan24-71779&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=cmacalingasan24-71779&icon=0&color=0" />
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
