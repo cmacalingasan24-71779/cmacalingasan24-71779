@@ -17,17 +17,26 @@ i am more Diving into the future of designing and web development. No experience
 in creating a website.
 </p>
 
-<p align="center">🚀 <b>About Me</b> </p>
-<p align="center">🔭 I’m currently 2nd year Iinformation Student</p>  
-<p align="center">🌱 I’m diving into deep Web Developing World</p>
-<p align="center">💬 Ask me about **Fundamentals, C++, Editing, Pubmat</p>  
-<p align="center">📫 How to reach me: 24-71179@g.batstate-u.edu.ph</p> 
-<p align="center">⚡ <b>Fun Fact</b>: i love having an error in my code</p>
+<p >🚀 <b>About Me</b> </p>
+<p >🔭 I’m currently 2nd year Iinformation Student</p>  
+<p >🌱 I’m diving into deep Web Developing World</p>
+<p >💬 Ask me about **Fundamentals, C++, Editing, Pubmat</p>  
+<p >📫 How to reach me: 24-71179@g.batstate-u.edu.ph</p> 
+<p >⚡ <b>Fun Fact</b>: i love having an error in my code</p>
 
 ---
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+<h1 align="center">💻 Tech Stack:</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" />
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cmacalingasan24-71779&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cmacalingasan24-71779&theme=dark&hide_border=false)<br/>
