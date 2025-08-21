@@ -17,12 +17,12 @@ i am more Diving into the future of designing and web development. No experience
 in creating a website.
 </p>
 
-<p>### 🚀 **About Me** </p>
-<p>🔭 I’m currently 2nd year Iinformation Student</p>  
-<p>🌱 I’m diving into deep Web Developing World</p>
-<p>💬 Ask me about **Fundamentals, C++, Editing, Pubmat</p>  
-<p>📫 How to reach me: **24-71179@g.batstate-u.edu.ph</p> 
-<p>⚡ **Fun Fact**: i love having an error in my code</p>
+<p align="center">🚀 <b>About Me</b> </p>
+<p align="center">🔭 I’m currently 2nd year Iinformation Student</p>  
+<p align="center">🌱 I’m diving into deep Web Developing World</p>
+<p align="center">💬 Ask me about **Fundamentals, C++, Editing, Pubmat</p>  
+<p align="center">📫 How to reach me: 24-71179@g.batstate-u.edu.ph</p> 
+<p align="center">⚡ <b>Fun Fact</b>: i love having an error in my code</p>
 
 ---
 
