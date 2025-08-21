@@ -12,7 +12,7 @@
 
 ---
 <p>
-I’m Uirho, Second Year IT student who are far from being excillent in programming
+I’m UIrho, Second Year IT student who are far from being excillent in programming
 i am more Diving into the future of designing and web development. No experience in Coding but looking forward
 in creating a website.
 </p>
